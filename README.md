@@ -23,14 +23,6 @@ Welcome to this repository! Here, we dive into a hands-on comparison between two
 
 ---
 
-## 📊 Evaluation Metrics
-
-We used the following metrics to compare both models:
-
-- ✅ Accuracy
-- 📉 Precision, Recall, F1 Score
-- 📈 ROC-AUC
-- 🧪 Confusion Matrix
 
 All metrics were computed using `scikit-learn` and visualized with `matplotlib` and `seaborn`.
 
